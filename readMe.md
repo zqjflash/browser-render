@@ -66,7 +66,7 @@ URL一般包括几大部分：
 
 从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理：
 
-[从浏览器多进程到JS单线程，JS运行机制](https://github.com/zqjflash/frontend/js-process.md)
+[从浏览器多进程到JS单线程，JS运行机制](https://github.com/zqjflash/browser-render/js-process.md)
 
 
 
